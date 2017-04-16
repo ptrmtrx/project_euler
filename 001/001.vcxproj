@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{5D8415CF-23D9-4546-918E-B15D548A7695}</ProjectGuid>
-    <RootNamespace>My2</RootNamespace>
+    <ProjectGuid>{DC5A183A-04C1-4DAA-9131-D28D8C3DE8A5}</ProjectGuid>
+    <RootNamespace>My001</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
